@@ -19,3 +19,5 @@ An IPv4 address consists of 32 bits.
 
 5) /0 in CIDR 0.0.0.0/0 means fix the first 0 bits and use the last 32 bits to form a range of addresses. In this case, all the possible IP addresses are included in the range.
 
+
+https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing#CIDR_notation
